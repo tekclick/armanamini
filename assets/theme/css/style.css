@@ -91,6 +91,11 @@ h5,
 h6 {
   letter-spacing: 1px;
 }
+
+a:hover{
+  color: #FFFFFF;
+  text-decoration:none;
+}
 /*============================
      03. HELPER
 ============================*/
@@ -1396,7 +1401,7 @@ textArea.form-flat {
   left: 0;
 }
 .chart .percent {
-  color: #000000;
+  color: #FFFFFF;
   display: inline-block;
   line-height: 110px;
   z-index: 2;
