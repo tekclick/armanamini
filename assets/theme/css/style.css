@@ -100,7 +100,7 @@ a:hover{
      03. HELPER
 ============================*/
 .bg1 {
-  background-image: url(../images/bg1.jpg);
+  background-image: url(../images/bg1-arman-portfolio.jpg);
 }
 .bg2 {
   background-image: url(../images/bg2.jpg);
@@ -1087,7 +1087,7 @@ textArea.form-flat {
 }
 .main-header .header-content-fixed {
   height: 600px;
-  background: url(../images/main-header.jpg) no-repeat center;
+  background: url(../images/main-header-arman-amini.jpg) no-repeat center;
   background-size: cover;
   background-attachment: fixed;
   text-align: center;
@@ -1172,7 +1172,7 @@ textArea.form-flat {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  background-image: url(../images/my-pict.jpg);
+  background-image: url(../images/arman-amini-profile-picture.jpg);
   position: absolute;
   left: 0;
   top: 0;
