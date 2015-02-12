@@ -268,16 +268,16 @@ hr {
      04. MAIN-HEADER 
 ============================*/
 .main-header .header-content-fixed:before {
-  background: rgba(0, 0, 0, 0.6);
+  background: rgba(0, 0, 0, 0.5);
 }
 .main-header .header-content-fixed:after {
-  background: rgba(0, 0, 0, 0.63);
+  background: rgba(0, 0, 0, 0.35);
 }
 .main-header:hover .header-content-fixed:before {
-  background: rgba(0, 0, 0, 0.78);
+  background: rgba(0, 0, 0, 0.5);
 }
 .main-header:hover .header-content-fixed:after {
-  background: rgba(0, 0, 0, 0.8);
+  background: rgba(0, 0, 0, 0.5);
 }
 .main-header .job {
   border-bottom: 1px solid #ffffff;
@@ -297,7 +297,7 @@ hr {
       ABOUT
 ============================*/
 .my-profile .my-pict .overfly {
-  background: rgba(0, 0, 0, 0.6);
+  background: rgba(0, 0, 0, 0.1);
 }
 /*============================
       SERVICES

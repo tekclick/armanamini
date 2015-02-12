@@ -376,8 +376,11 @@ blockquote {
   right: 0;
   bottom: 0;
   height: 100%;
-  background: rgba(0, 0, 0, 0.6);
+  background: rgba(0, 0, 0, 0.25);
 }
+
+
+
 .block-section {
   background: #ffffff;
   position: relative;
@@ -1209,7 +1212,7 @@ textArea.form-flat {
   bottom: 0;
   right: 0;
   padding: 40px;
-  text-align: right;
+  text-align: left;
 }
 .my-profile .my-pict .overfly:hover {
   /*        background: transparent;
