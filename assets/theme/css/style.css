@@ -620,6 +620,13 @@ blockquote {
     display: block;
   }
 }
+
+a {
+  color: #ede8ed;
+
+}
+
+
 /*== BUTTONS ==*/
 .btn-default {
   border-color: #ebebeb;
@@ -1235,8 +1242,12 @@ textArea.form-flat {
   float: right;
 }
 .my-profile .my-desc .inner-text {
-  max-width: 585px;
-  padding: 40px;
+  max-width: 650px;
+  padding-left: 40px;
+  padding-bottom: 20px;
+  padding-right: 30px;
+  padding-top: 20px;
+  margin-right: -10px !important;
 }
 @media (max-width: 880px) {
   .my-profile .my-desc .inner-text {
@@ -1462,7 +1473,7 @@ textArea.form-flat {
   -o-transition: all 0.3s ease 0s;
   -ms-transition: all 0.3s ease 0s;
   padding: 8px;
-  background: rgba(255, 255, 255, 0.7);
+  background: #fff;
   text-align: center;
   font-weight: 700;
   text-decoration: none;
@@ -1498,7 +1509,7 @@ textArea.form-flat {
   -ms-border-radius: 5px !important;
   -o-border-radius: 5px !important;
   border-radius: 5px !important;
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 1);
   box-shadow: 0 0 0 1px #ffffff !important;
   -webkit-box-shadow: 0 0 0 1px #ffffff !important;
   -moz-box-shadow: 0 0 0 1px #ffffff !important;
