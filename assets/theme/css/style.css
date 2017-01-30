@@ -1,36 +1,11 @@
 @import url('http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700, 800');
-/*
-This files contents are outlined below.
-01. BODY 
-02. TYPOGRAPGY 
-03. HELPER
-04. COMPONENTS
-  - NAVBAR
-  - BUTTONS
-  - FORM
-  - PAGINATION
-  - TABS
-  - CAROUSEL
-05. MAIN-HEADER 
-06. CONTENT 
-  - ABOUT
-  - SERVICES
-  - RESUME
-  - SKILLS 
-  - PORTFOLIO
-  - BLOG
-  - CONTACT
-  - TESTIMONIAL
-  - PARALLAX
-  - CAPTCHA
-07. MAIN-FOOTER 
-*/
+
 /*============================
      01. BODY
 ============================*/
 body {
   background: #ffffff;
-  color: #7d7d7d;
+  color: #bebebe !important;
   font-family: 'Open Sans';
   line-height: 2;
   font-size: 13px;
